@@ -12,7 +12,7 @@
 <a href="https://github.com/ismae147">
   <img align="left" alt="Ismael's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://instagram.com/ismael_cortegana/">
+<a href="https://instagram.com/ismaellcm/">
   <img align="left" alt="Ismael's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/ismaellcm">
