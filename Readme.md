@@ -3,10 +3,10 @@
 
 ![Profile views](https://gpvc.arturio.dev/ismae147)
 
-<a href="https://twitter.com/#">
-  <img align="left" alt="Pavan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/ismaellcm">
+  <img align="left" alt="Twitter's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/ismaelcortegana">
+<a href="https://www.linkedin.com/in/ismaellcm">
   <img align="left" alt="Ismael's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/ismae147">
@@ -14,7 +14,7 @@
 </a>
 <a href="https://instagram.com/ismael_cortegana/">
   <img align="left" alt="Ismael's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>Pavan
+</a>
 <a href="https://www.facebook.com/ismaellcm">
   <img align="left" alt="Ismael's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
